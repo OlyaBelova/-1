@@ -1,0 +1,109 @@
+.menu {
+    width: 90px;
+    -webkit-transition: width 0.5s;
+    -moz-transition: width 0.5s;
+    -o-transition: width 0.5s;
+     transition: width 0.5s;
+}
+.menu:hover{
+    width: 150px;
+}
+h1 {
+color: grey;
+font-family: "Gill Sans", sans-serif;
+font-size: 4rem;
+font-weight: bold;
+text-decoration: overline;
+text-shadow: 2px 2px 2px black,
+             2px 2px 1px black;
+ letter-spacing: 3px;
+}
+h2 {
+font-weight: bold;
+color: grey;
+font-family: "Gill Sans", serif;
+letter-spacing: 2px;
+text-shadow: 1px 1px 1px black,
+             2px 2px 1px black;
+font-size: 2rem;
+}
+background
+{
+    background-repeat: repeat-y;
+}
+h3 {
+    color: crimson;
+    font-size: 22px;
+    font-family: "Gill Sans", serif;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 1px black,
+             2px 2px 1px black;
+}
+h4 {
+    color: khaki;
+    font-size: 22px;
+    font-family: "Gill Sans", serif;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 1px black,
+             2px 2px 1px black;
+}
+h5 {
+    color: mediumaquamarine;
+    font-size: 22px;
+    font-family: "Gill Sans", serif;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 1px black,
+             2px 2px 1px black;
+}
+h6 {
+    font-weight: bold;
+color: grey;
+font-family: "Gill Sans", serif;
+letter-spacing: 2px;
+text-shadow: 1px 1px 1px black,
+             2px 2px 1px black;
+font-size: 2rem;
+text-align: center;
+}
+.circles {
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circles{
+    width: 250px;
+    -webkit-transition: width 0.5s;
+    -moz-transition: width 0.5s;
+    -o-transition: width 0.5s;
+     transition: width 0.5s;
+}
+.circles:hover{
+    width: 350px;
+}
+p{
+padding-left: 80px;
+color: grey;
+font-family: "Gill Sans", sans-serif;
+font-size: 25px;
+font-weight: bold;
+}
+.laminator {
+    margin-left: 500px;
+    margin-right: 100px;
+}
+.logo {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.way {
+display: block;
+margin-left: auto;
+margin-right: auto; 
+}
+.banner {
+
+    margin-left: 170px;
+    margin-right: 130px; 
+}
